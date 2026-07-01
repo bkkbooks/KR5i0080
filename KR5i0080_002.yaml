@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5i0080/krp/v1/juan/2
+seq: 2
+front:
+  text: 通書通書周子作朱子注
+  hash: sha256:60717d086138496b8c0e8cc0d6a2fb8d39ccbe13c7fe2ad67e27c7273f5d9ecc
+  markers:
+  - {type: page-break, offset: 2, content: '', id: CK-BS_KR5i0080_02p001a}
+body:
+  text: 通書者濓溪夫子之所作也夫子姓周氏名惇頤字茂叔自少即以學行有聞於世而莫或知其師傳之所自獨以河南兩程夫子嘗受學焉而得孔孟不傳之正統則其淵源固可槩見然所以指夫仲尼顏子之樂而發其吟風弄月之趣者亦不可得而悉聞矣所著之書又多散失獨此一篇本號易通與太極圖說並出程氏以傳於世而其為說實相表裏大抵推一理二氣五行之分合以紀綱道體之精微決道義文辭利祿之取舍以振起俗學之卑陋至論所以入德之方經世之具又皆親切簡要不為空言顧其宏綱大用既非秦漢以來諸儒所及而其條理之密意味之深又非今世學者所能驟而窺也是以程氏既沒而傳者鮮焉其知之者不過以為用意高遠而已熹自蚤嵗即幸得其遺編而伏讀之初蓋茫然不知其所謂而甚或不能以句壯嵗獲遊延平先生之門然後始得聞其說之一二比年以來潛玩既久乃若粗有得焉雖其宏綱大用所不敢知然於其章句文字之間則有以實見其條理之愈密意味之愈深而不我欺也顧自始讀以至於今歲月幾何倏焉三紀慨前哲之益遠懼妙旨之無傳竊不自量輒為注釋雖知凡近不足以發夫子之精藴然創通大義以俟後之君子則萬一其庶幾焉
+  hash: sha256:ff90f25093d8d8353a9993daf66f42eec3c1f84a615f0644d7db296bde0dd66f
+metadata:
+  title: 通書
+  edition:
+    short: krp
+  base_edition: CK-KZ
+  date: '2015-08-29 17:58:45.123051'
+  source:
+    repository: kanripo
+    path: KR5i0080/KR5i0080_002.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:1c904ea186d186360d82fe0dc98b4f265150fb5b2dc6db2e05803f743072a7e8

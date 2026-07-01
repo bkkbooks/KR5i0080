@@ -1,0 +1,62 @@
+canonical_identifier: bkk:krp/KR5i0080/v1
+canonical_location: https://kanripo.org/bkk/KR5i0080/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 通書
+  identifiers:
+    alt_id:
+    - JY251
+  date: '2015-08-29 17:58:45.123051'
+  source:
+    repository: kanripo
+    path: KR5i0080
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+  base_edition: CK-KZ
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: CK-KZ
+  label: 【重刊道藏輯要】
+- short: CK-KZ-jye
+- short: YP-C
+  label: 【原版道藏輯要】
+- short: KR5i0080
+assets:
+  parts:
+  - {seq: 1, filename: KR5i0080_001.yaml, hash: 'sha256:be281e6527e89110372aaecc231f67b10e24eb412c5a128312f3e16f123b047c'}
+  - {seq: 2, filename: KR5i0080_002.yaml, hash: 'sha256:1c904ea186d186360d82fe0dc98b4f265150fb5b2dc6db2e05803f743072a7e8'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5i0080_001.markers.yaml, hash: 'sha256:51b037e2c2d5459e0ad2499e305766e2e71e876b78c324fe6a0b13d9f5fe4307'}
+  - {seq: 2, role: markers, filename: assets/KR5i0080_002.markers.yaml, hash: 'sha256:365c8c31ef0e7f926c47f2de61ce9b46685724e4913b1c78e710520f61180ac1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: CK-BS_KR5i0080_01p001a
+    span:
+    - body
+    - 0
+    - 9185
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: CK-BS_KR5i0080_02p001a
+    span:
+    - body
+    - 0
+    - 431
+  label: juan 002
+  type: section
+  level: 1
+hash: sha256:18b7efdfe37749bfc78f4fc09937aee24375d8d154fb974e719c3c7de444a3c6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
